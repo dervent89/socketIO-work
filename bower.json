@@ -9,6 +9,7 @@
   "homepage": "https://github.com/dervent89/socketIO-work",
   "dependencies": {
     "angular": "^1.7.0",
-    "semantic": "^2.3.1"
+    "semantic": "^2.3.1",
+    "jquery": "^3.3.1"
   }
 }
